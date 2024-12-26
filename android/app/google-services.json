@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "235925475737",
+    "project_id": "fitness305-casino-dkmau0",
+    "storage_bucket": "fitness305-casino-dkmau0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235925475737:android:671e02054229aac8f70308",
+        "android_client_info": {
+          "package_name": "com.mycompany.fitness305casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235925475737-v8bpk990f7k73qfvneq3d3iub0pn71eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fitness305casino",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "235925475737-5hf4bl9vc20ocfsec7ui172mu0t2edq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOPyiJhpxA2FI2fc2znna_ohzEOoZ5EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235925475737-1hcsi92cr72c1lpe0bu4m11osf39e70s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235925475737-9cf9e6lvtv8p7fnvqmqs65v55am049ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.fitness305casino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

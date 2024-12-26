@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235925475737-9cf9e6lvtv8p7fnvqmqs65v55am049ab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235925475737-9cf9e6lvtv8p7fnvqmqs65v55am049ab</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>235925475737-v8bpk990f7k73qfvneq3d3iub0pn71eo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGYBbCnvqIL8bljsi_nK7Dcv4VbTcfEGE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235925475737</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.fitness305casino</string>
+	<key>PROJECT_ID</key>
+	<string>fitness305-casino-dkmau0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitness305-casino-dkmau0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235925475737:ios:7ede00e50fd39ed2f70308</string>
+</dict>
+</plist>
