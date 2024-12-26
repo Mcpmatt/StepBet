@@ -15,7 +15,7 @@ Modern fitness apps excel at tracking progress but often lack engaging user inte
 Contributions are welcome! Fork the repository and submit pull requests for any enhancements or bug fixes.
 
 ## Contact:
-For questions or support, contact us at (Jpiccoli@uri.edu).
+For questions or support, contact us at (mcpmatt@uri.edu).
 
 ## Acknowledgements:
 Thank you to [list any contributors or libraries used].
