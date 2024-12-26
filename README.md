@@ -1,6 +1,6 @@
-# 305FitnessCasino
+# CSC-305 Final Project
 
-## Fitness Casino
+## Step Bet
 
 Modern fitness apps excel at tracking progress but often lack engaging user interaction or meaningful rewards for achievements. Imagine hiking over 10 miles or achieving new personal bests, only to receive a generic "Great Job!" message. Our project aims to transform fitness tracking by integrating fun, interactive elements inspired by casino gaming.
 
