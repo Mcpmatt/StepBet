@@ -4,6 +4,8 @@
 
 Modern fitness apps excel at tracking progress but often lack engaging user interaction or meaningful rewards for achievements. Imagine hiking over 10 miles or achieving new personal bests, only to receive a generic "Great Job!" message. Our project aims to transform fitness tracking by integrating fun, interactive elements inspired by casino gaming.
 
+[Step Bet Website](https://sites.google.com/uri.edu/step-bet-webpage/home)
+
 ## Features:
 - **Gamified Fitness Tracking:** Earn in-game tokens based on Steps Taken.
 - **Casino Games:** Enjoy Blackjack, Plinko, and Mines games using earned tokens.
